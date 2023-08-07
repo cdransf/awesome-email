@@ -10,6 +10,7 @@ All of these services, except Posteo, support custom domains — using a custom 
 | Proton      | <https://proton.me>        | Switzerland |
 | Tutanota    | <https://tutanota.com>     | Germany     |
 | Mailbox.org | <https://mailbox.org>      | Germany     |
+| HEY         | <https://hey.com>          | US          |
 | Posteo      | <https://posteo.de>        | Germany     |
 | Mailfence   | <https://mailfence.com>    | Belgium     |
 | Runbox      | <https://runbox.com>       | Norway      |
