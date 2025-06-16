@@ -9,7 +9,6 @@ All of these services, except Posteo, support custom domains — using a custom 
 | Fastmail    | <https://fastmail.com>     | Australia   |
 | Proton      | <https://proton.me>        | Switzerland |
 | Tutanota    | <https://tutanota.com>     | Germany     |
-| HEY         | <https://hey.com>          | US          |
 | Mailbox.org | <https://mailbox.org>      | Germany     |
 | Posteo      | <https://posteo.de>        | Germany     |
 | Mailfence   | <https://mailfence.com>    | Belgium     |
@@ -19,7 +18,6 @@ All of these services, except Posteo, support custom domains — using a custom 
 | Migadu      | <https://www.migadu.com>   | Switzerland | 
 | Hushmail    | <https://www.hushmail.com> | Canada      |
 | Kolabnow    | <https://kolabnow.com>     | Switzerland |
-| iCloud      | <https://icloud.com/mail>  | US          |
 
 [^1]: Email is typically about as private as a postcard given its distributed nature but, do your research and choose
 the best provider for your particular threat model.
